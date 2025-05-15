@@ -3,9 +3,11 @@ Please don't forget to import the SQL file, it's in the Materials folder. Thanks
 To access: 
 
 LOGIN SYSTEM
-1. Can log in as  customer to go to customer dashboard
-- if walang account mag sign up
-- if nalimutan pass mag forgot password
-2. For admin
-email: admin@example.com
-pass: adminpass
+1. Customer Account
+- Customers can log in to access the customer dashboard.
+- If they don't have an account, they must sign up.
+- If they forgot their password, they can use the "Forgot Password" option.
+
+2. Admin Account
+Email: admin@example.com
+Password: adminpass
