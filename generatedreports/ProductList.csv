@@ -1,0 +1,14 @@
+ProductID,ProductName,Price,Stock,CategoryID,UserID
+1,skirt,80.00,7,15,1
+2,Laptop,1000.00,15,1,1
+3,T-shirt,15.00,50,2,2
+4,Refrigerator,800.00,10,3,3
+5,Fiction Book,20.00,30,4,4
+6,Doll,25.00,40,5,5
+7,Basketball,30.00,25,6,6
+8,Office Chair,120.00,18,7,7
+9,Lipstick,10.00,100,8,8
+10,Car Battery,150.00,12,9,9
+11,Tablet,15000.00,10,1,1
+101,Test Product,199.99,10,1,1
+105,Cleanser,15.00,50,1,1

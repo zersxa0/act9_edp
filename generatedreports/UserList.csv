@@ -1,0 +1,19 @@
+UserID,Name,Email,Password,Role
+1,Maam Jean,sarah@example.com,password123,customer
+2,Mary Jean,jean@example.com,password456,customer
+3,Admin User,admin@example.com,adminpass,admin
+4,Ella Ey,ella@example.com,ellapass,customer
+5,Step Phanie,step@example.com,steppass,customer
+6,Carla Cas,carla@example.com,carlapass,customer
+7,Jab Nim,jab@example.com,jabpass,customer
+8,Mingkai Ko,mingkai@example.com,mingkaipass,customer
+9,Roofi Off,roofi@example.com,roofipass,customer
+10,Luna Lim,luna@example.com,lunapass,customer
+12,sarah,sera@gmail.com,pass123,customer
+13,adee,dee@gmail.com,pass123,customer
+14,jisoo,jisookim@gmail.com,pass123,customer
+15,weewee,wee@gmail.com,wewe,customer
+16,taehyung,kimtaehyung@gmail.com,pass,customer
+17,sarah,sarah@gmail.com,123456789,customer
+19,kuko,kuko@gmail.com,kuko123,customer
+21,asa,admin2@gmail.com,123456,admin
