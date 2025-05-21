@@ -1,4 +1,5 @@
 Please don't forget to import the SQL file, it's in the Materials folder. Thanks!
+"..\Materials\order_management.sql"
 
 To access: 
 
@@ -9,5 +10,5 @@ LOGIN SYSTEM
 - If they forgot their password, they can use the "Forgot Password" option.
 
 2. Admin Account
-Email: admin@example.com
-Password: adminpass
+Email: admin2@example.com
+Password: 123456
